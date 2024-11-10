@@ -1,0 +1,12 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  margin-left: 200px; /* Match this to the width of side-navbar */
+  margin-top: 60px; /* Match this to the height of top-navbar */
+  padding: 20px;
+  width: 100vw;
+}
